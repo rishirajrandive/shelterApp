@@ -23,21 +23,14 @@ Android app for landlords and tenants to connect with each other. Landlords can 
 
 ### Screen shots of app in action
 
-* For first time, search page will show default search for All restaurants in San Jose location 
-<img width="300" height="400" alt="search" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/home.png"/>
+<img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/home.png" title="Home view for the app" alt="Home view for the app"/>
+
+<img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/loginoptions.png" title="Login options available in the app" alt="login"/>
+
+<img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/screen.png" title="After login the details in Navigation drawer" alt="about"/>
+
+<img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/search.png" title="Search of properties" alt="search"/>
 
 
-* Details page shown when user selects a restaurant from the list
-<img width="300" height="400" alt="details" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/loginoptions.png"/>
-
-
-* Favorite list
-<img width="300" height="400" alt="favorite" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/screen.png"/>
-
-
-* Button to make reservation
-<img width="300" height="400" alt="reservation" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/search.png"/>
-
-
-Check out the demo on [Youtube](https://www.youtube.com/watch?v=-HfdIaa7WXM&list=PLm8oa4Y-1y-vUNV2msQMrU7D9c6buipTD)
+### Check out the demo on [Youtube](https://www.youtube.com/watch?v=-HfdIaa7WXM&list=PLm8oa4Y-1y-vUNV2msQMrU7D9c6buipTD)
 
