@@ -23,13 +23,20 @@ Android app for landlords and tenants to connect with each other. Landlords can 
 
 ### Screen shots of app in action
 
-<img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/home.png" title="Home view for the app" alt="Home view for the app"/>
+* Home view for the app
 
-<img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/loginoptions.png" title="Login options available in the app" alt="login"/>
+<img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/home.png" alt="Home view for the app"/>
 
-<img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/screen.png" title="After login the details in Navigation drawer" alt="about"/>
+* Login options available in the app
 
-<img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/search.png" title="Search of properties" alt="search"/>
+<img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/loginoptions.png" alt="login"/>
+
+* After login the details in Navigation drawer
+
+<img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/screen.png" alt="about"/>
+
+* Search of properties
+<img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/search.png" alt="search"/>
 
 
 ### Check out the demo on [Youtube](https://www.youtube.com/watch?v=-HfdIaa7WXM&list=PLm8oa4Y-1y-vUNV2msQMrU7D9c6buipTD)
