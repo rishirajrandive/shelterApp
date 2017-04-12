@@ -36,6 +36,7 @@ Android app for landlords and tenants to connect with each other. Landlords can 
 <img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/screen.png" alt="about"/>
 
 * Search of properties
+
 <img height="300" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/search.png" alt="search"/>
 
 
