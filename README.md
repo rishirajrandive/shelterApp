@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Shelter
+Android app for landlords and tenants to connect with each other. Landlords can use it post their property for rent and tenants can find home.
 
-You can use the [editor on GitHub](https://github.com/rishirajrandive/shelterApp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Working of the app
+* Easy sign in using Facebook or Google for both landlord and tenant.
+* Simple search option to see all the properties near by.
+* Filter search based on location, radius and cost.
+* Landlords can post property along with images (upto 5)
+* Tenants can mark properties favorite and access them from anywhere.
+* Landlords can update or remove their property from listing 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Build with 
+* [Android SDK](https://developer.android.com/studio/index.html) - used Android Studio for development
+* [Place picker](https://developers.google.com/places/android-api/placepicker) - part of Google Places API
+* [SearchView](https://developer.android.com/guide/topics/search/search-dialog.html) - used to provide search option
+* [RecyclerView](https://developer.android.com/training/material/lists-cards.html) - displays the results in list.
+* [ViewPager](https://developer.android.com/training/animation/screen-slide.html) - to enable swiping through results on details page.
+* [Facebook sign up](https://developers.facebook.com/docs/facebook-login/android) - easy sign up/in using Facebook account, also populates profile picture and name.
+* [Google sign up](https://developers.google.com/identity/sign-in/android/start-integrating) - easy sing up/in option using Google account, populates profile picture and name.
+* [Navigation Drawer](https://developer.android.com/training/implementing-navigation/nav-drawer.html) - to provide option to navigate between Search and Favorites.
+* APIs were provided by Flask application hosted on cloud.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Screen shots of app in action
 
-```markdown
-Syntax highlighted code block
+* For first time, search page will show default search for All restaurants in San Jose location 
+<img width="300" height="400" alt="search" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/home.png"/>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+* Details page shown when user selects a restaurant from the list
+<img width="300" height="400" alt="details" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/loginoptions.png"/>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+* Favorite list
+<img width="300" height="400" alt="favorite" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/screen.png"/>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Button to make reservation
+<img width="300" height="400" alt="reservation" src="https://raw.githubusercontent.com/rishirajrandive/shelterApp/master/Shelter/screenshots/search.png"/>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rishirajrandive/shelterApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Check out the demo on [Youtube](https://www.youtube.com/watch?v=-HfdIaa7WXM&list=PLm8oa4Y-1y-vUNV2msQMrU7D9c6buipTD)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
